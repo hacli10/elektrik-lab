@@ -1,7 +1,7 @@
 {
-  "name": "Elektrik Lab — Topraklama ve Röle laboratuvarı",
+  "name": "Elektrik Lab — Topraklama, Röle ve Güç sistemi laboratuvarı",
   "short_name": "Elektrik Lab",
-  "description": "Topraklama ve koruma rölesi konularında mevzuat ve üretici kılavuzu atıflı, etkileşimli benzetimler.",
+  "description": "Topraklama, koruma rölesi ve güç sistemi (trafo, motor, arıza fiziği, kablo, AG, OG, GES) konularında mevzuat ve üretici kılavuzu atıflı, etkileşimli benzetimler.",
   "lang": "tr",
   "start_url": "./",
   "scope": "./",
